@@ -11,3 +11,6 @@ Stopped: https://www.cloudskillsboost.google/paths/17/course_templates/593/video
 
 15 Aug 2025
 https://www.cloudskillsboost.google/paths/17/course_templates/593/labs/565186
+
+16 Aug 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565190
