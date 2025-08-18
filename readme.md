@@ -19,3 +19,8 @@ https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565190
 Prepare Data for ML APIs on Google Cloud - Dataprep: Qwik Start | Google Cloud Skills Boost
 
 Finished the introductory course with labs
+
+18 Aug 2025
+finished this https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550122
+
+need to start here: https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550124
