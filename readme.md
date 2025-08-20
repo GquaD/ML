@@ -27,3 +27,5 @@ need to start here: https://www.cloudskillsboost.google/paths/17/course_template
 
 19 Aug 2025
 worked with spark cluster on dataproc: created cluster and then ran the job on that cluster https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550125
+
+Prepare Data for ML APIs on Google Cloud - Prepare Data for ML APIs on Google Cloud: Challenge Lab | Google Cloud Skills Boost  did the last lab, could not finish task 3 and 4. Tried different things.
