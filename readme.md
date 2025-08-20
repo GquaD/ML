@@ -24,3 +24,6 @@ Finished the introductory course with labs
 finished this https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550122
 
 need to start here: https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550124
+
+19 Aug 2025
+worked with spark cluster on dataproc: created cluster and then ran the job on that cluster https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550125
