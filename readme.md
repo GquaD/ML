@@ -36,3 +36,8 @@ finished the course and got the badge Prepare Data for ML APIs on Google Cloud S
 
 
 https://www.cloudskillsboost.google/paths/17/course_templates/923/video/568857 Working with Notebooks in Vertex AI
+
+21 Aug 2025
+learned about Vertex AI Notebooks, particularly about Colab and Workbench
+
+https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
