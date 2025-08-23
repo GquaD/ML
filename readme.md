@@ -41,3 +41,8 @@ https://www.cloudskillsboost.google/paths/17/course_templates/923/video/568857 W
 learned about Vertex AI Notebooks, particularly about Colab and Workbench
 
 https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
+
+22 Aug 2025
+
+finished the lab: Exploratory Data Analysis using Bigquery and Colab Enterprise
+https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568864
