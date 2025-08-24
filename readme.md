@@ -53,3 +53,4 @@ https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
 24 Aug 2025
 finished the Vertex AI course and started this
 https://www.cloudskillsboost.google/paths/17/course_templates/626
+Then finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562131
