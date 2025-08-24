@@ -46,3 +46,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
 
 finished the lab: Exploratory Data Analysis using Bigquery and Colab Enterprise
 https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568864
+
+23 Aug 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
