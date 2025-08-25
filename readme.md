@@ -54,3 +54,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
 finished the Vertex AI course and started this
 https://www.cloudskillsboost.google/paths/17/course_templates/626
 Then finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562131
+
+25 Aug 2025
+finished this lab Predict Visitor Purchases with a Classification Model in BigQuery ML: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562132
