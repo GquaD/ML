@@ -58,3 +58,7 @@ Then finished this lab: https://www.cloudskillsboost.google/paths/17/course_temp
 25 Aug 2025
 finished this lab Predict Visitor Purchases with a Classification Model in BigQuery ML: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562132
 completed Predict Taxi Fare with a BigQuery ML Forecasting Model lab - https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562133
+
+26 Aug 2025
+finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562134 
+bigquery, ml model create, ml evaluate, ml predict
