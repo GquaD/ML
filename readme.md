@@ -62,3 +62,6 @@ completed Predict Taxi Fare with a BigQuery ML Forecasting Model lab - https://w
 26 Aug 2025
 finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562134 
 bigquery, ml model create, ml evaluate, ml predict
+
+27 Aug 2025
+completed Create ML Models with BigQuery https://www.credly.com/badges/1162bd1f-86eb-4360-924d-f97c6a885dc4
