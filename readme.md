@@ -68,3 +68,6 @@ completed Create ML Models with BigQuery https://www.credly.com/badges/1162bd1f-
 
 28 Aug 2025
 finished https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550929 BigQuery, Dataprep, flows
+
+29 Aug 2025
+finished and 100% completed Engineer Data for Predictive Modeling with BigQuery ML - Creating a Data Transformation Pipeline with Cloud Dataprep | Google Cloud Skills Boost  BigQuery, Dataprep, flows
