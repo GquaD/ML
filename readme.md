@@ -65,3 +65,6 @@ bigquery, ml model create, ml evaluate, ml predict
 
 27 Aug 2025
 completed Create ML Models with BigQuery https://www.credly.com/badges/1162bd1f-86eb-4360-924d-f97c6a885dc4
+
+28 Aug 2025
+finished https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550929 BigQuery, Dataprep, flows
