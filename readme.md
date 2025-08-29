@@ -71,3 +71,4 @@ finished https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/
 
 29 Aug 2025
 finished and 100% completed Engineer Data for Predictive Modeling with BigQuery ML - Creating a Data Transformation Pipeline with Cloud Dataprep | Google Cloud Skills Boost  BigQuery, Dataprep, flows
+finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550930 bigquery, dataflow, python, apache beam
