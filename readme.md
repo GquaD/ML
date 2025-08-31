@@ -75,3 +75,6 @@ finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates
 
 30 Aug 2025
 https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550930 bigquery, dataflow, python, apache beam
+https://www.credly.com/badges/421bfe7e-df51-4c5e-982b-d989f70d04fe
+Engineer Data for Predictive Modeling with BigQuery ML Skill Badge
+finished course: https://www.cloudskillsboost.google/paths/17/course_templates/627/badge
