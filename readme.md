@@ -78,3 +78,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550930 bi
 https://www.credly.com/badges/421bfe7e-df51-4c5e-982b-d989f70d04fe
 Engineer Data for Predictive Modeling with BigQuery ML Skill Badge
 finished course: https://www.cloudskillsboost.google/paths/17/course_templates/627/badge
+
+31 Aug 2025
+started Feature Engineering module: https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437462. Feature store, feature ingestion, entity, feature serving.
