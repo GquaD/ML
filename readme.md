@@ -81,3 +81,6 @@ finished course: https://www.cloudskillsboost.google/paths/17/course_templates/6
 
 31 Aug 2025
 started Feature Engineering module: https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437462. Feature store, feature ingestion, entity, feature serving.
+
+1 Sep 2025
+finished Intro to Vertex AI Feature Store module of Feature Engineering https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437467
