@@ -84,3 +84,6 @@ started Feature Engineering module: https://www.cloudskillsboost.google/paths/17
 
 1 Sep 2025
 finished Intro to Vertex AI Feature Store module of Feature Engineering https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437467
+
+2 Sep 2025
+feature engineering intro: https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437469
