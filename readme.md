@@ -94,3 +94,4 @@ watched till Raw Data to Features - Features should be numeric | Google Cloud Sk
 4 Sep 2025
 Finished raw data to features module: https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437478
 https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437482
+!git clone https://github.com/GoogleCloudPlatform/training-data-analyst - data analyst labs | finished https://www.cloudskillsboost.google/paths/17/course_templates/11/labs/437483
