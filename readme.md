@@ -90,3 +90,6 @@ feature engineering intro: https://www.cloudskillsboost.google/paths/17/course_t
 
 3 Sep 2025
 watched till Raw Data to Features - Features should be numeric | Google Cloud Skills Boost https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437473
+
+4 Sep 2025
+Finished raw data to features module: https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437478
