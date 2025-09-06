@@ -98,3 +98,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437482
 
 5 Sep
 Watched https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437487 : keras, feature crosses, fata preprocessing pipelines
+
+6 Sep
+finished Feature Engineering lab: https://www.cloudskillsboost.google/paths/17/course_templates/11/labs/437490 Keras, python, vertex AI
