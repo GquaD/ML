@@ -101,3 +101,6 @@ Watched https://www.cloudskillsboost.google/paths/17/course_templates/11/video/4
 
 6 Sep
 finished Feature Engineering lab: https://www.cloudskillsboost.google/paths/17/course_templates/11/labs/437490 Keras, python, vertex AI
+
+7 Sep
+https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437491
