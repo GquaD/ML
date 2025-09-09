@@ -107,3 +107,7 @@ https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437491
 
 8 Sep
 finished 3rd mod feature engineering: keras, python, vertex ai, ml, feature cross https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437494
+
+9 Sep
+https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437499
+ Preprocessing and Feature Creation, apache beam, dataflow
