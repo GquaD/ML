@@ -112,3 +112,6 @@ finished 3rd mod feature engineering: keras, python, vertex ai, ml, feature cros
 https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437499
  Preprocessing and Feature Creation, apache beam, dataflow
  https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437507
+
+10 Sep
+https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437508 | TensorFlow transform, Apache Beam, analyze and transform data
