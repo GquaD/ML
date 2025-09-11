@@ -115,3 +115,8 @@ https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/43749
 
 10 Sep
 https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437508 | TensorFlow transform, Apache Beam, analyze and transform data
+
+11 Sep
+https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512761 | Build, Train, and Deploy ML
+Models with Keras on GoogleCloud, Intro to TensorFlow ecosystem, tensors, 0D - scalar, 1D - vector, 2D - matrix, 3D and more - 3D tensor etc
+
