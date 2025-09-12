@@ -120,3 +120,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437508 | 
 https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512761 | Build, Train, and Deploy ML
 Models with Keras on GoogleCloud, Intro to TensorFlow ecosystem, tensors, 0D - scalar, 1D - vector, 2D - matrix, 3D and more - 3D tensor etc
 
+12 Sep
+watched until https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512764  tf.data | dataset APIs
+
