@@ -123,3 +123,6 @@ Models with Keras on GoogleCloud, Intro to TensorFlow ecosystem, tensors, 0D - s
 12 Sep
 watched until https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512764  tf.data | dataset APIs
 
+13 Sep
+watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512766 | tf features to colum, embeddings, one hot encoding, categorical values
+
