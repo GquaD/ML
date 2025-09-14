@@ -126,3 +126,5 @@ watched until https://www.cloudskillsboost.google/paths/17/course_templates/12/v
 13 Sep
 watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512766 | tf features to colum, embeddings, one hot encoding, categorical values
 
+14 Sep
+completed lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512769 | tensorflow create dataset, shuffle, dataset.map(), Dataset API, loss-mse
