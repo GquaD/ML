@@ -128,3 +128,6 @@ watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/5
 
 14 Sep
 completed lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512769 | tensorflow create dataset, shuffle, dataset.map(), Dataset API, loss-mse
+
+15 Sep
+completed this lab 100% https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512769
