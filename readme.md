@@ -134,3 +134,6 @@ completed this lab 100% https://www.cloudskillsboost.google/paths/17/course_temp
 
 16 Sep 
 completed module Design and Build an Input Data Pipeline https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512774 | Keras, string lookup, discretisation, hashing, model.fit(), compile()
+
+17 Sep
+watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512777  keras model.compile(), model.fit(), model.predict()
