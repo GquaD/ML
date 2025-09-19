@@ -137,3 +137,6 @@ completed module Design and Build an Input Data Pipeline https://www.cloudskills
 
 17 Sep
 watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512777  keras model.compile(), model.fit(), model.predict()
+
+18 Sep
+https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
