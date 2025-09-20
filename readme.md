@@ -143,3 +143,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
 
 19 Sep
 https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 gave it another try - not accepting
+
+20 Sep
+https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 still there
