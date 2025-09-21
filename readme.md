@@ -146,3 +146,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 gav
 
 20 Sep
 https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 still there
+
+21 Sep
+100% finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
