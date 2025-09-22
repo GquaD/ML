@@ -149,3 +149,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 sti
 
 21 Sep
 100% finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
+
+22 Sep
+https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512782 Keras Functional API
