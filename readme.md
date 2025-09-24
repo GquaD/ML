@@ -155,3 +155,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512782 Ke
 
 23 Sep
 finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512783  keras model predict
+
+24 Sep
+finished module https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512788  Building Neural Networks with the TensorFlow and Keras API | Keras, sequential API, functional API, subclassing API, regularization L1 and L2 (quadratic formula of a distance)
