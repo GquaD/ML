@@ -152,3 +152,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 sti
 
 22 Sep
 https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512782 Keras Functional API
+
+23 Sep
+finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512783  keras model predict
