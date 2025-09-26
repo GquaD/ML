@@ -161,3 +161,6 @@ finished module https://www.cloudskillsboost.google/paths/17/course_templates/12
 
 25 Sep
 https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512791  training at scale with python and vertex AI
+
+26 Sep
+Attempted lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost  not finished | Keras training at scale
