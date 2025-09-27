@@ -164,3 +164,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512791  t
 
 26 Sep
 Attempted lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost  not finished | Keras training at scale
+
+27 Sep
+another attempt to finish lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512792
