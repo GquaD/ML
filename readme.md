@@ -167,3 +167,6 @@ Attempted lab Training at Scale with Vertex AI - Training at Scale with Vertex A
 
 27 Sep
 another attempt to finish lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512792
+
+28 Sep
+finished course https://www.cloudskillsboost.google/paths/17/course_templates/12/badge Build, Train, and Deploy ML Models with KerasonGoogle Cloud
