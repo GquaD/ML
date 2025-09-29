@@ -170,3 +170,6 @@ another attempt to finish lab Training at Scale with Vertex AI - Training at Sca
 
 28 Sep
 finished course https://www.cloudskillsboost.google/paths/17/course_templates/12/badge Build, Train, and Deploy ML Models with KerasonGoogle Cloud
+
+29 Sep
+watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584697 | Architecting ML systems in Prod
