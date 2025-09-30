@@ -173,3 +173,6 @@ finished course https://www.cloudskillsboost.google/paths/17/course_templates/12
 
 29 Sep
 watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584697 | Architecting ML systems in Prod
+
+30 Sep
+watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584700 | Model serving in PROD | All steps 
