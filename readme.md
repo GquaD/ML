@@ -176,3 +176,6 @@ watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/5
 
 30 Sep
 watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584700 | Model serving in PROD | All steps 
+
+1 Oct
+watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584702 | Static and Dynamic Model Serving | Hybrid approach
