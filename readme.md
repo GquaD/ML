@@ -179,3 +179,6 @@ watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/5
 
 1 Oct
 watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584702 | Static and Dynamic Model Serving | Hybrid approach
+
+2 Oct
+https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584704
