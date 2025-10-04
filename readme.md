@@ -185,3 +185,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584704
 
 3 Oct
 https://www.cloudskillsboost.google/paths/17/course_templates/17/documents/584708  finished submodule: Architecting ML systems
+
+4 Oct
+https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584711 Designing adaptable ML systems: Adapting input data, changing distributions
