@@ -188,3 +188,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/17/documents/58470
 
 4 Oct
 https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584711 Designing adaptable ML systems: Adapting input data, changing distributions
+
+6 Oct
+https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584713 | Right and Wrong decisions | Legacy features
