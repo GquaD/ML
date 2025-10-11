@@ -194,3 +194,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584713 | 
 
 8 Oct
 https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584714 | System and model failures
+
+11 Oct
+https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584715 | Concept drift
