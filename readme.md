@@ -200,3 +200,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584715 | 
 
 12 Oct
 Concept Drift | Data validation | Distribution Skew https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584717 
+
+13 Oct
+Tensor Flow Data Validation Designing Adaptable ML Systems - Introduction to TensorFlow Data Validation | Google Cloud Skills Boost
