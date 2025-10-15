@@ -206,3 +206,6 @@ Tensor Flow Data Validation Designing Adaptable ML Systems - Introduction to Ten
 
 14 Oct
 Introduction to TensorFlow data validation Lab done | https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584720
+
+15 Oct
+Data Visalization for TF Data Validation | https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584722 
