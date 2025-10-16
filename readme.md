@@ -209,3 +209,6 @@ Introduction to TensorFlow data validation Lab done | https://www.cloudskillsboo
 
 15 Oct
 Data Visalization for TF Data Validation | https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584722 
+
+16 Oct
+Training-serving skew | https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584723
