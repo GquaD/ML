@@ -212,3 +212,6 @@ Data Visalization for TF Data Validation | https://www.cloudskillsboost.google/p
 
 16 Oct
 Training-serving skew | https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584723
+
+17 Oct
+Train and service custom model Lab | Docker | Model Registry https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584724
