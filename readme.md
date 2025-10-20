@@ -215,3 +215,6 @@ Training-serving skew | https://www.cloudskillsboost.google/paths/17/course_temp
 
 17 Oct
 Train and service custom model Lab | Docker | Model Registry https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584724
+
+20 Oct
+https://www.cloudskillsboost.google/paths/17/course_templates/17/documents/584727 Prod Model
