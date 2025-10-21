@@ -218,3 +218,6 @@ Train and service custom model Lab | Docker | Model Registry https://www.cloudsk
 
 20 Oct
 https://www.cloudskillsboost.google/paths/17/course_templates/17/documents/584727 Prod Model
+
+21 Oct
+High Perf ML Systems Design | https://www.skills.google/paths/17/course_templates/17/video/584731
