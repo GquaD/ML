@@ -221,3 +221,6 @@ https://www.cloudskillsboost.google/paths/17/course_templates/17/documents/58472
 
 21 Oct
 High Perf ML Systems Design | https://www.skills.google/paths/17/course_templates/17/video/584731
+
+22 Oct
+Distributed training architectures | https://www.skills.google/paths/17/course_templates/17/video/584732
