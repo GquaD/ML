@@ -227,3 +227,6 @@ Distributed training architectures | https://www.skills.google/paths/17/course_t
 
 23 Oct
 Distributed training strategies: Mirrored Strategy https://www.skills.google/paths/17/course_templates/17/video/584734
+
+24 Oct
+Distributed training strategies: Multi-worker mirrored strategy, TPU strategy, Parameter server strategy | https://www.skills.google/paths/17/course_templates/17/video/584738
