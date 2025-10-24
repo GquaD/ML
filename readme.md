@@ -224,3 +224,6 @@ High Perf ML Systems Design | https://www.skills.google/paths/17/course_template
 
 22 Oct
 Distributed training architectures | https://www.skills.google/paths/17/course_templates/17/video/584732
+
+23 Oct
+Distributed training strategies: Mirrored Strategy https://www.skills.google/paths/17/course_templates/17/video/584734
