@@ -231,3 +231,6 @@ Distributed training strategies: Mirrored Strategy https://www.skills.google/pat
 24 Oct
 Distributed training strategies: Multi-worker mirrored strategy, TPU strategy, Parameter server strategy | https://www.skills.google/paths/17/course_templates/17/video/584738
 Distributed training lab: https://www.skills.google/paths/17/course_templates/17/labs/584739
+
+25 Oct
+TPU speed data pipelines | https://www.skills.google/paths/17/course_templates/17/labs/584742
