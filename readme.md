@@ -234,3 +234,6 @@ Distributed training lab: https://www.skills.google/paths/17/course_templates/17
 
 25 Oct
 TPU speed data pipelines | https://www.skills.google/paths/17/course_templates/17/labs/584742
+
+26 Oct
+Finished Designing High-performance ML Systems | https://www.skills.google/paths/17/course_templates/17/documents/584745
