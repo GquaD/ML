@@ -237,3 +237,6 @@ TPU speed data pipelines | https://www.skills.google/paths/17/course_templates/1
 
 26 Oct
 Finished Designing High-performance ML Systems | https://www.skills.google/paths/17/course_templates/17/documents/584745
+
+27 Oct
+Kubeflow and Hybrid Approach | https://www.skills.google/paths/17/course_templates/17/video/584748
