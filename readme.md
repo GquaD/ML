@@ -240,3 +240,6 @@ Finished Designing High-performance ML Systems | https://www.skills.google/paths
 
 27 Oct
 Kubeflow and Hybrid Approach | https://www.skills.google/paths/17/course_templates/17/video/584748
+
+28 Oct 
+Running pipelines on Vertex AI | https://www.skills.google/paths/17/course_templates/17/labs/584750
