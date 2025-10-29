@@ -243,3 +243,6 @@ Kubeflow and Hybrid Approach | https://www.skills.google/paths/17/course_templat
 
 28 Oct 
 Running pipelines on Vertex AI | https://www.skills.google/paths/17/course_templates/17/labs/584750
+
+29 Oct
+Finishhed Production ML systems course | https://www.skills.google/paths/17/course_templates/17/badge
