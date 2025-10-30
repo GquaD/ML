@@ -246,3 +246,6 @@ Running pipelines on Vertex AI | https://www.skills.google/paths/17/course_templ
 
 29 Oct
 Finishhed Production ML systems course | https://www.skills.google/paths/17/course_templates/17/badge
+
+30 Oct
+MLOps course started | https://www.skills.google/paths/17/course_templates/158/video/583695
