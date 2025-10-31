@@ -249,3 +249,6 @@ Finishhed Production ML systems course | https://www.skills.google/paths/17/cour
 
 30 Oct
 MLOps course started | https://www.skills.google/paths/17/course_templates/158/video/583695
+
+31 Oct
+MLOps first module of Employing Machine is done | https://www.skills.google/paths/17/course_templates/158/documents/583700
