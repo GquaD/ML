@@ -252,3 +252,6 @@ MLOps course started | https://www.skills.google/paths/17/course_templates/158/v
 
 31 Oct
 MLOps first module of Employing Machine is done | https://www.skills.google/paths/17/course_templates/158/documents/583700
+
+1 Nov
+Vertex AI | https://www.skills.google/paths/17/course_templates/158/video/583701
