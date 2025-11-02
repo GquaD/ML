@@ -255,3 +255,6 @@ MLOps first module of Employing Machine is done | https://www.skills.google/path
 
 1 Nov
 Vertex AI | https://www.skills.google/paths/17/course_templates/158/video/583701
+
+2 Nov
+Vertex AI capabilities | https://www.skills.google/paths/17/course_templates/158/video/583702
