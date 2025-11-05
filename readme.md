@@ -261,3 +261,6 @@ Vertex AI capabilities | https://www.skills.google/paths/17/course_templates/158
 
 3 Nov
 MLOps with Vertex AI | https://www.skills.google/paths/17/course_templates/158/quizzes/583706
+
+4 Nov
+Finished the MLOps beginner course | https://www.skills.google/paths/17/course_templates/158/badge
