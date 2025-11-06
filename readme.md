@@ -264,3 +264,6 @@ MLOps with Vertex AI | https://www.skills.google/paths/17/course_templates/158/q
 
 4 Nov
 Finished the MLOps beginner course | https://www.skills.google/paths/17/course_templates/158/badge
+
+5 Nov 
+MLOps advanced | https://www.skills.google/paths/17/course_templates/584/video/457047
