@@ -267,3 +267,6 @@ Finished the MLOps beginner course | https://www.skills.google/paths/17/course_t
 
 5 Nov 
 MLOps advanced | https://www.skills.google/paths/17/course_templates/584/video/457047
+
+6 Nov
+Vertex AI feature store | https://www.skills.google/paths/17/course_templates/584/video/457050
