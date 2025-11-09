@@ -273,3 +273,6 @@ Vertex AI feature store | https://www.skills.google/paths/17/course_templates/58
 
 8 Nov
 Feature Store features | https://www.skills.google/paths/17/course_templates/584/video/457050
+
+9 Nov
+Feature Store features | https://www.skills.google/paths/17/course_templates/584/video/457052
