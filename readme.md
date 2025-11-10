@@ -276,3 +276,6 @@ Feature Store features | https://www.skills.google/paths/17/course_templates/584
 
 9 Nov
 Feature Store features | https://www.skills.google/paths/17/course_templates/584/video/457052
+
+10 Nov
+MLOps, manage features done | https://www.skills.google/paths/17/course_templates/584/badge
