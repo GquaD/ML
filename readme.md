@@ -279,3 +279,6 @@ Feature Store features | https://www.skills.google/paths/17/course_templates/584
 
 10 Nov
 MLOps, manage features done | https://www.skills.google/paths/17/course_templates/584/badge
+
+11 Nov
+Compledted intro to GenAI | https://www.skills.google/paths/17/course_templates/536/badge
