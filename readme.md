@@ -282,3 +282,6 @@ MLOps, manage features done | https://www.skills.google/paths/17/course_template
 
 11 Nov
 Compledted intro to GenAI | https://www.skills.google/paths/17/course_templates/536/badge
+
+12 Nov
+Model Evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520168
