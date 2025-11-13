@@ -285,3 +285,6 @@ Compledted intro to GenAI | https://www.skills.google/paths/17/course_templates/
 
 12 Nov
 Model Evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520168
+
+13 Nov
+Mode Evaluation sub module done | https://www.skills.google/paths/17/course_templates/1080/documents/520172
