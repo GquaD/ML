@@ -291,3 +291,6 @@ Mode Evaluation sub module done | https://www.skills.google/paths/17/course_temp
 
 14 Nov
 Evaluating LLM vs Predictive models | https://www.skills.google/paths/17/course_templates/1080/video/520174
+
+15 Nov
+Model results evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520177
