@@ -294,3 +294,6 @@ Evaluating LLM vs Predictive models | https://www.skills.google/paths/17/course_
 
 15 Nov
 Model results evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520177
+
+16 Nov
+Model evaluation course completed | https://www.skills.google/paths/17/course_templates/1080/badge
