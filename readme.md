@@ -1,77 +1,223 @@
 my ML course progress
 
-13 Aug 2025
-Finished AI foundations part https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565167
+16 Nov 2025
+Model evaluation course completed | https://www.skills.google/paths/17/course_templates/1080/badge
 
-https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565171
+15 Nov 2025
+Model results evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520177
 
-14 Aug 2025
-Finished: AI Development Workflow part
-Stopped: https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565178
+14 Nov 2025
+Evaluating LLM vs Predictive models | https://www.skills.google/paths/17/course_templates/1080/video/520174
 
-15 Aug 2025
-https://www.cloudskillsboost.google/paths/17/course_templates/593/labs/565186
+13 Nov 2025
+Mode Evaluation sub module done | https://www.skills.google/paths/17/course_templates/1080/documents/520172
 
-16 Aug 2025
-https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565190
+12 Nov 2025
+Model Evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520168
 
-17 Aug 2025
-Prepare Data for ML APIs on Google Cloud - Dataprep: Qwik Start | Google Cloud Skills Boost
+11 Nov 2025
+Compledted intro to GenAI | https://www.skills.google/paths/17/course_templates/536/badge
 
-Finished the introductory course with labs
+10 Nov 2025
+MLOps, manage features done | https://www.skills.google/paths/17/course_templates/584/badge
 
-18 Aug 2025
-finished this https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550122
+9 Nov 2025
+Feature Store features | https://www.skills.google/paths/17/course_templates/584/video/457052
 
-need to start here: https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550124
+8 Nov 2025
+Feature Store features | https://www.skills.google/paths/17/course_templates/584/video/457050
 
-19 Aug 2025
-worked with spark cluster on dataproc: created cluster and then ran the job on that cluster https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550125
+6 Nov 2025
+Vertex AI feature store | https://www.skills.google/paths/17/course_templates/584/video/457050
 
-Prepare Data for ML APIs on Google Cloud - Prepare Data for ML APIs on Google Cloud: Challenge Lab | Google Cloud Skills Boost  did the last lab, could not finish task 3 and 4. Tried different things.
+5 Nov 2025 
+MLOps advanced | https://www.skills.google/paths/17/course_templates/584/video/457047
 
-20 Aug 2025
-finished the course and got the badge Prepare Data for ML APIs on Google Cloud Skill Badge was issued by Google Cloud to Bek Tayeer.
+4 Nov 2025
+Finished the MLOps beginner course | https://www.skills.google/paths/17/course_templates/158/badge
 
+3 Nov 2025
+MLOps with Vertex AI | https://www.skills.google/paths/17/course_templates/158/quizzes/583706
 
+2 Nov 2025
+Vertex AI capabilities | https://www.skills.google/paths/17/course_templates/158/video/583702
 
-https://www.cloudskillsboost.google/paths/17/course_templates/923/video/568857 Working with Notebooks in Vertex AI
+1 Nov 2025
+Vertex AI | https://www.skills.google/paths/17/course_templates/158/video/583701
 
-21 Aug 2025
-learned about Vertex AI Notebooks, particularly about Colab and Workbench
+31 Oct 2025
+MLOps first module of Employing Machine is done | https://www.skills.google/paths/17/course_templates/158/documents/583700
 
-https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
+30 Oct 2025
+MLOps course started | https://www.skills.google/paths/17/course_templates/158/video/583695
 
-22 Aug 2025
+29 Oct 2025
+Finishhed Production ML systems course | https://www.skills.google/paths/17/course_templates/17/badge
 
-finished the lab: Exploratory Data Analysis using Bigquery and Colab Enterprise
-https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568864
+28 Oct 2025 
+Running pipelines on Vertex AI | https://www.skills.google/paths/17/course_templates/17/labs/584750
 
-23 Aug 2025
-https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
+27 Oct 2025
+Kubeflow and Hybrid Approach | https://www.skills.google/paths/17/course_templates/17/video/584748
 
-24 Aug 2025
-finished the Vertex AI course and started this
-https://www.cloudskillsboost.google/paths/17/course_templates/626
-Then finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562131
+26 Oct 2025
+Finished Designing High-performance ML Systems | https://www.skills.google/paths/17/course_templates/17/documents/584745
 
-25 Aug 2025
-finished this lab Predict Visitor Purchases with a Classification Model in BigQuery ML: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562132
-completed Predict Taxi Fare with a BigQuery ML Forecasting Model lab - https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562133
+25 Oct 2025
+TPU speed data pipelines | https://www.skills.google/paths/17/course_templates/17/labs/584742
 
-26 Aug 2025
-finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562134 
-bigquery, ml model create, ml evaluate, ml predict
+24 Oct 2025
+Distributed training strategies: Multi-worker mirrored strategy, TPU strategy, Parameter server strategy | https://www.skills.google/paths/17/course_templates/17/video/584738
+Distributed training lab: https://www.skills.google/paths/17/course_templates/17/labs/584739
 
-27 Aug 2025
-completed Create ML Models with BigQuery https://www.credly.com/badges/1162bd1f-86eb-4360-924d-f97c6a885dc4
+23 Oct 2025
+Distributed training strategies: Mirrored Strategy https://www.skills.google/paths/17/course_templates/17/video/584734
 
-28 Aug 2025
-finished https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550929 BigQuery, Dataprep, flows
+22 Oct 2025
+Distributed training architectures | https://www.skills.google/paths/17/course_templates/17/video/584732
 
-29 Aug 2025
-finished and 100% completed Engineer Data for Predictive Modeling with BigQuery ML - Creating a Data Transformation Pipeline with Cloud Dataprep | Google Cloud Skills Boost  BigQuery, Dataprep, flows
-finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550930 bigquery, dataflow, python, apache beam
+21 Oct 2025
+High Perf ML Systems Design | https://www.skills.google/paths/17/course_templates/17/video/584731
+
+20 Oct 2025
+https://www.skills.google/paths/17/course_templates/17/documents/584727 Prod Model
+
+17 Oct 2025
+Train and service custom model Lab | Docker | Model Registry https://www.skills.google/paths/17/course_templates/17/labs/584724
+
+16 Oct 2025
+Training-serving skew | https://www.skills.google/paths/17/course_templates/17/video/584723
+
+15 Oct 2025
+Data Visalization for TF Data Validation | https://www.skills.google/paths/17/course_templates/17/labs/584722 
+
+14 Oct 2025
+Introduction to TensorFlow data validation Lab done | https://www.skills.google/paths/17/course_templates/17/labs/584720
+
+13 Oct 2025
+Tensor Flow Data Validation Designing Adaptable ML Systems - Introduction to TensorFlow Data Validation | Google Cloud Skills Boost
+
+12 Oct 2025
+Concept Drift | Data validation | Distribution Skew https://www.skills.google/paths/17/course_templates/17/video/584717 
+
+11 Oct 2025
+https://www.skills.google/paths/17/course_templates/17/video/584715 | Concept drift
+
+8 Oct 2025
+https://www.skills.google/paths/17/course_templates/17/video/584714 | System and model failures
+
+6 Oct 2025
+https://www.skills.google/paths/17/course_templates/17/video/584713 | Right and Wrong decisions | Legacy features
+
+4 Oct 2025
+https://www.skills.google/paths/17/course_templates/17/video/584711 Designing adaptable ML systems: Adapting input data, changing distributions
+
+3 Oct 2025
+https://www.skills.google/paths/17/course_templates/17/documents/584708  finished submodule: Architecting ML systems
+
+2 Oct 2025
+https://www.skills.google/paths/17/course_templates/17/video/584704
+
+1 Oct 2025
+watched https://www.skills.google/paths/17/course_templates/17/video/584702 | Static and Dynamic Model Serving | Hybrid approach
+
+30 Sep 2025
+watched https://www.skills.google/paths/17/course_templates/17/video/584700 | Model serving in PROD | All steps 
+
+29 Sep 2025
+watched https://www.skills.google/paths/17/course_templates/17/video/584697 | Architecting ML systems in Prod
+
+28 Sep 2025
+finished course https://www.cloudskillsboost.google/paths/17/course_templates/12/badge Build, Train, and Deploy ML Models with KerasonGoogle Cloud
+
+27 Sep 2025
+another attempt to finish lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512792
+
+26 Sep 2025
+Attempted lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost  not finished | Keras training at scale
+
+25 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512791  training at scale with python and vertex AI
+
+24 Sep 2025
+finished module https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512788  Building Neural Networks with the TensorFlow and Keras API | Keras, sequential API, functional API, subclassing API, regularization L1 and L2 (quadratic formula of a distance)
+
+23 Sep 2025
+finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512783  keras model predict
+
+22 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512782 Keras Functional API
+
+21 Sep 2025
+100% finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
+
+20 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 still there
+
+19 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 gave it another try - not accepting
+
+18 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
+
+17 Sep 2025
+watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512777  keras model.compile(), model.fit(), model.predict()
+
+16 Sep 2025 
+completed module Design and Build an Input Data Pipeline https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512774 | Keras, string lookup, discretisation, hashing, model.fit(), compile()
+
+15 Sep 2025
+completed this lab 100% https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512769
+
+14 Sep 2025
+completed lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512769 | tensorflow create dataset, shuffle, dataset.map(), Dataset API, loss-mse
+
+13 Sep 2025
+watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512766 | tf features to colum, embeddings, one hot encoding, categorical values
+
+12 Sep 2025
+watched until https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512764  tf.data | dataset APIs
+
+11 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512761 | Build, Train, and Deploy ML
+Models with Keras on GoogleCloud, Intro to TensorFlow ecosystem, tensors, 0D - scalar, 1D - vector, 2D - matrix, 3D and more - 3D tensor etc
+
+10 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437508 | TensorFlow transform, Apache Beam, analyze and transform data
+
+9 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437499
+Preprocessing and Feature Creation, apache beam, dataflow
+https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437507
+
+8 Sep 2025
+finished 3rd mod feature engineering: keras, python, vertex ai, ml, feature cross https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437494
+
+7 Sep 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437491
+
+6 Sep 2025
+finished Feature Engineering lab: https://www.cloudskillsboost.google/paths/17/course_templates/11/labs/437490 Keras, python, vertex AI
+
+5 Sep 2025
+Watched https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437487 : keras, feature crosses, fata preprocessing pipelines
+
+4 Sep 2025
+Finished raw data to features module: https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437478
+https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437482
+!git clone https://github.com/GoogleCloudPlatform/training-data-analyst - data analyst labs | finished https://www.cloudskillsboost.google/paths/17/course_templates/11/labs/437483
+
+3 Sep 2025
+watched till Raw Data to Features - Features should be numeric | Google Cloud Skills Boost https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437473
+
+2 Sep 2025
+feature engineering intro: https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437469
+
+1 Sep 2025
+finished Intro to Vertex AI Feature Store module of Feature Engineering https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437467
+
+31 Aug 2025
+started Feature Engineering module: https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437462. Feature store, feature ingestion, entity, feature serving.
 
 30 Aug 2025
 https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550930 bigquery, dataflow, python, apache beam
@@ -79,221 +225,66 @@ https://www.credly.com/badges/421bfe7e-df51-4c5e-982b-d989f70d04fe
 Engineer Data for Predictive Modeling with BigQuery ML Skill Badge
 finished course: https://www.cloudskillsboost.google/paths/17/course_templates/627/badge
 
-31 Aug 2025
-started Feature Engineering module: https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437462. Feature store, feature ingestion, entity, feature serving.
+29 Aug 2025
+finished and 100% completed Engineer Data for Predictive Modeling with BigQuery ML - Creating a Data Transformation Pipeline with Cloud Dataprep | Google Cloud Skills Boost  BigQuery, Dataprep, flows
+finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550930 bigquery, dataflow, python, apache beam
 
-1 Sep 2025
-finished Intro to Vertex AI Feature Store module of Feature Engineering https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437467
+28 Aug 2025
+finished https://www.cloudskillsboost.google/paths/17/course_templates/627/labs/550929 BigQuery, Dataprep, flows
 
-2 Sep 2025
-feature engineering intro: https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437469
+27 Aug 2025
+completed Create ML Models with BigQuery https://www.credly.com/badges/1162bd1f-86eb-4360-924d-f97c6a885dc4
 
-3 Sep 2025
-watched till Raw Data to Features - Features should be numeric | Google Cloud Skills Boost https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437473
+26 Aug 2025
+finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562134 
+bigquery, ml model create, ml evaluate, ml predict
 
-4 Sep 2025
-Finished raw data to features module: https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437478
-https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437482
-!git clone https://github.com/GoogleCloudPlatform/training-data-analyst - data analyst labs | finished https://www.cloudskillsboost.google/paths/17/course_templates/11/labs/437483
+25 Aug 2025
+finished this lab Predict Visitor Purchases with a Classification Model in BigQuery ML: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562132
+completed Predict Taxi Fare with a BigQuery ML Forecasting Model lab - https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562133
 
-5 Sep
-Watched https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437487 : keras, feature crosses, fata preprocessing pipelines
+24 Aug 2025
+finished the Vertex AI course and started this
+https://www.cloudskillsboost.google/paths/17/course_templates/626
+Then finished this lab: https://www.cloudskillsboost.google/paths/17/course_templates/626/labs/562131
 
-6 Sep
-finished Feature Engineering lab: https://www.cloudskillsboost.google/paths/17/course_templates/11/labs/437490 Keras, python, vertex AI
+23 Aug 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
 
-7 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437491
+22 Aug 2025
+finished the lab: Exploratory Data Analysis using Bigquery and Colab Enterprise
+https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568864
 
-8 Sep
-finished 3rd mod feature engineering: keras, python, vertex ai, ml, feature cross https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437494
+21 Aug 2025
+learned about Vertex AI Notebooks, particularly about Colab and Workbench
+https://www.cloudskillsboost.google/paths/17/course_templates/923/labs/568863
 
-9 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/11/documents/437499
- Preprocessing and Feature Creation, apache beam, dataflow
- https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437507
+20 Aug 2025
+finished the course and got the badge Prepare Data for ML APIs on Google Cloud Skill Badge was issued by Google Cloud to Bek Tayeer.
+https://www.cloudskillsboost.google/paths/17/course_templates/923/video/568857 Working with Notebooks in Vertex AI
 
-10 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/11/video/437508 | TensorFlow transform, Apache Beam, analyze and transform data
+19 Aug 2025
+worked with spark cluster on dataproc: created cluster and then ran the job on that cluster https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550125
+Prepare Data for ML APIs on Google Cloud - Prepare Data for ML APIs on Google Cloud: Challenge Lab | Google Cloud Skills Boost  did the last lab, could not finish task 3 and 4. Tried different things.
 
-11 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512761 | Build, Train, and Deploy ML
-Models with Keras on GoogleCloud, Intro to TensorFlow ecosystem, tensors, 0D - scalar, 1D - vector, 2D - matrix, 3D and more - 3D tensor etc
+18 Aug 2025
+finished this https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550122
+need to start here: https://www.cloudskillsboost.google/paths/17/course_templates/631/labs/550124
 
-12 Sep
-watched until https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512764  tf.data | dataset APIs
+17 Aug 2025
+Prepare Data for ML APIs on Google Cloud - Dataprep: Qwik Start | Google Cloud Skills Boost
+Finished the introductory course with labs
 
-13 Sep
-watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512766 | tf features to colum, embeddings, one hot encoding, categorical values
+16 Aug 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565190
 
-14 Sep
-completed lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512769 | tensorflow create dataset, shuffle, dataset.map(), Dataset API, loss-mse
+15 Aug 2025
+https://www.cloudskillsboost.google/paths/17/course_templates/593/labs/565186
 
-15 Sep
-completed this lab 100% https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512769
+14 Aug 2025
+Finished: AI Development Workflow part
+Stopped: https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565178
 
-16 Sep 
-completed module Design and Build an Input Data Pipeline https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512774 | Keras, string lookup, discretisation, hashing, model.fit(), compile()
-
-17 Sep
-watched https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512777  keras model.compile(), model.fit(), model.predict()
-
-18 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
-
-19 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 gave it another try - not accepting
-
-20 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780 still there
-
-21 Sep
-100% finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512780
-
-22 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512782 Keras Functional API
-
-23 Sep
-finished the lab https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512783  keras model predict
-
-24 Sep
-finished module https://www.cloudskillsboost.google/paths/17/course_templates/12/documents/512788  Building Neural Networks with the TensorFlow and Keras API | Keras, sequential API, functional API, subclassing API, regularization L1 and L2 (quadratic formula of a distance)
-
-25 Sep
-https://www.cloudskillsboost.google/paths/17/course_templates/12/video/512791  training at scale with python and vertex AI
-
-26 Sep
-Attempted lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost  not finished | Keras training at scale
-
-27 Sep
-another attempt to finish lab Training at Scale with Vertex AI - Training at Scale with Vertex AI Training Service | Google Cloud Skills Boost https://www.cloudskillsboost.google/paths/17/course_templates/12/labs/512792
-
-28 Sep
-finished course https://www.cloudskillsboost.google/paths/17/course_templates/12/badge Build, Train, and Deploy ML Models with KerasonGoogle Cloud
-
-29 Sep
-watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584697 | Architecting ML systems in Prod
-
-30 Sep
-watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584700 | Model serving in PROD | All steps 
-
-1 Oct
-watched https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584702 | Static and Dynamic Model Serving | Hybrid approach
-
-2 Oct
-https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584704
-
-3 Oct
-https://www.cloudskillsboost.google/paths/17/course_templates/17/documents/584708  finished submodule: Architecting ML systems
-
-4 Oct
-https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584711 Designing adaptable ML systems: Adapting input data, changing distributions
-
-6 Oct
-https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584713 | Right and Wrong decisions | Legacy features
-
-8 Oct
-https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584714 | System and model failures
-
-11 Oct
-https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584715 | Concept drift
-
-12 Oct
-Concept Drift | Data validation | Distribution Skew https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584717 
-
-13 Oct
-Tensor Flow Data Validation Designing Adaptable ML Systems - Introduction to TensorFlow Data Validation | Google Cloud Skills Boost
-
-14 Oct
-Introduction to TensorFlow data validation Lab done | https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584720
-
-15 Oct
-Data Visalization for TF Data Validation | https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584722 
-
-16 Oct
-Training-serving skew | https://www.cloudskillsboost.google/paths/17/course_templates/17/video/584723
-
-17 Oct
-Train and service custom model Lab | Docker | Model Registry https://www.cloudskillsboost.google/paths/17/course_templates/17/labs/584724
-
-20 Oct
-https://www.cloudskillsboost.google/paths/17/course_templates/17/documents/584727 Prod Model
-
-21 Oct
-High Perf ML Systems Design | https://www.skills.google/paths/17/course_templates/17/video/584731
-
-22 Oct
-Distributed training architectures | https://www.skills.google/paths/17/course_templates/17/video/584732
-
-23 Oct
-Distributed training strategies: Mirrored Strategy https://www.skills.google/paths/17/course_templates/17/video/584734
-
-24 Oct
-Distributed training strategies: Multi-worker mirrored strategy, TPU strategy, Parameter server strategy | https://www.skills.google/paths/17/course_templates/17/video/584738
-Distributed training lab: https://www.skills.google/paths/17/course_templates/17/labs/584739
-
-25 Oct
-TPU speed data pipelines | https://www.skills.google/paths/17/course_templates/17/labs/584742
-
-26 Oct
-Finished Designing High-performance ML Systems | https://www.skills.google/paths/17/course_templates/17/documents/584745
-
-27 Oct
-Kubeflow and Hybrid Approach | https://www.skills.google/paths/17/course_templates/17/video/584748
-
-28 Oct 
-Running pipelines on Vertex AI | https://www.skills.google/paths/17/course_templates/17/labs/584750
-
-29 Oct
-Finishhed Production ML systems course | https://www.skills.google/paths/17/course_templates/17/badge
-
-30 Oct
-MLOps course started | https://www.skills.google/paths/17/course_templates/158/video/583695
-
-31 Oct
-MLOps first module of Employing Machine is done | https://www.skills.google/paths/17/course_templates/158/documents/583700
-
-1 Nov
-Vertex AI | https://www.skills.google/paths/17/course_templates/158/video/583701
-
-2 Nov
-Vertex AI capabilities | https://www.skills.google/paths/17/course_templates/158/video/583702
-
-3 Nov
-MLOps with Vertex AI | https://www.skills.google/paths/17/course_templates/158/quizzes/583706
-
-4 Nov
-Finished the MLOps beginner course | https://www.skills.google/paths/17/course_templates/158/badge
-
-5 Nov 
-MLOps advanced | https://www.skills.google/paths/17/course_templates/584/video/457047
-
-6 Nov
-Vertex AI feature store | https://www.skills.google/paths/17/course_templates/584/video/457050
-
-8 Nov
-Feature Store features | https://www.skills.google/paths/17/course_templates/584/video/457050
-
-9 Nov
-Feature Store features | https://www.skills.google/paths/17/course_templates/584/video/457052
-
-10 Nov
-MLOps, manage features done | https://www.skills.google/paths/17/course_templates/584/badge
-
-11 Nov
-Compledted intro to GenAI | https://www.skills.google/paths/17/course_templates/536/badge
-
-12 Nov
-Model Evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520168
-
-13 Nov
-Mode Evaluation sub module done | https://www.skills.google/paths/17/course_templates/1080/documents/520172
-
-14 Nov
-Evaluating LLM vs Predictive models | https://www.skills.google/paths/17/course_templates/1080/video/520174
-
-15 Nov
-Model results evaluation | https://www.skills.google/paths/17/course_templates/1080/video/520177
-
-16 Nov
-Model evaluation course completed | https://www.skills.google/paths/17/course_templates/1080/badge
+13 Aug 2025
+Finished AI foundations part https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565167
+https://www.cloudskillsboost.google/paths/17/course_templates/593/video/565171
