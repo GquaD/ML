@@ -1,5 +1,8 @@
 my ML course progress
 
+17 Nov
+Generative AI applications | https://www.skills.google/paths/17/course_templates/1120/documents/532040
+
 16 Nov 2025
 Model evaluation course completed | https://www.skills.google/paths/17/course_templates/1080/badge
 
