@@ -1,5 +1,8 @@
 my ML course progress
 
+18 Nov
+Prompts | https://www.skills.google/paths/17/course_templates/1120/documents/532041
+
 17 Nov
 Generative AI applications | https://www.skills.google/paths/17/course_templates/1120/documents/532040
 
