@@ -1,5 +1,8 @@
 my ML course progress
 
+19 Nov
+Finished prompts chapter | https://www.skills.google/paths/17/course_templates/1120/quizzes/532045
+
 18 Nov
 Prompts | https://www.skills.google/paths/17/course_templates/1120/documents/532041
 
