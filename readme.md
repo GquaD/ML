@@ -1,5 +1,8 @@
 my ML course progress
 
+20 Nov
+Retrieval Augmented Generation RAG | http://skills.google/paths/17/course_templates/1120/documents/532049
+
 19 Nov
 Finished prompts chapter | https://www.skills.google/paths/17/course_templates/1120/quizzes/532045
 
