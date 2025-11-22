@@ -1,5 +1,8 @@
 my ML course progress
 
+22 Nov
+Created an MCP server, connected to vector db with flights etc data and chatting app to ask questions on it | https://www.skills.google/paths/17/course_templates/1120/badge
+
 21 Nov
 RAG done | https://www.skills.google/paths/17/course_templates/1120/quizzes/532053
 
