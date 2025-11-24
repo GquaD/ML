@@ -1,5 +1,8 @@
 my ML course progress
 
+24 Nov
+Bias in AI systems, TensorFlow | https://www.skills.google/paths/17/course_templates/985/video/583534 
+
 23 Nov
 Responsible AI | https://www.skills.google/paths/17/course_templates/985/quizzes/583532
 
