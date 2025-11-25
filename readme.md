@@ -1,5 +1,8 @@
 my ML course progress
 
+25 Nov
+TensorFlow tools for Identifying Bias | https://www.skills.google/paths/17/course_templates/985/video/583536
+
 24 Nov
 Bias in AI systems, TensorFlow | https://www.skills.google/paths/17/course_templates/985/video/583534 
 
