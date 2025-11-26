@@ -1,5 +1,8 @@
 my ML course progress
 
+26 Nov
+Identifying Bias - Data intervention | https://www.skills.google/paths/17/course_templates/985/video/583537
+
 25 Nov
 TensorFlow tools for Identifying Bias | https://www.skills.google/paths/17/course_templates/985/video/583536
 
