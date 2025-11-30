@@ -1,5 +1,8 @@
 my ML course progress
 
+30 Nov
+Mitigate Bias | https://www.skills.google/paths/17/course_templates/985/video/583540
+
 27 Nov
 Identifying bias - Identifying threshold | https://www.skills.google/paths/17/course_templates/985/video/583538
 
