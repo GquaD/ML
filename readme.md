@@ -1,5 +1,8 @@
 my ML course progress
 
+1 Dec
+Responsible AI course done. Lab done. | https://www.skills.google/paths/17/course_templates/985/badge
+
 30 Nov
 Mitigate Bias | https://www.skills.google/paths/17/course_templates/985/video/583540
 
