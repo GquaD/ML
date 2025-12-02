@@ -1,5 +1,8 @@
 my ML course progress
 
+2 Dec
+Interpretability and Transparency of AI systems | https://www.skills.google/paths/17/course_templates/989/video/583393
+
 1 Dec
 Responsible AI course done. Lab done. | https://www.skills.google/paths/17/course_templates/985/badge
 
