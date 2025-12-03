@@ -1,5 +1,8 @@
 my ML course progress
 
+3 Dec
+Interpretability techniques | https://www.skills.google/paths/17/course_templates/989/video/583394
+
 2 Dec
 Interpretability and Transparency of AI systems | https://www.skills.google/paths/17/course_templates/989/video/583393
 
