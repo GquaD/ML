@@ -1,5 +1,8 @@
 my ML course progress
 
+4 Dec
+Model agnostic explanation of AI model | https://www.skills.google/paths/17/course_templates/989/video/583395
+
 3 Dec
 Interpretability techniques | https://www.skills.google/paths/17/course_templates/989/video/583394
 
