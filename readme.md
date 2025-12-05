@@ -1,5 +1,8 @@
 my ML course progress
 
+5 Dec
+Concept-based explanations | https://www.skills.google/paths/17/course_templates/989/video/583397
+
 4 Dec
 Model agnostic explanation of AI model | https://www.skills.google/paths/17/course_templates/989/video/583395
 
