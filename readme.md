@@ -1,5 +1,8 @@
 my ML course progress
 
+8 Dec
+Data Privacy: De-identification techniques | https://www.skills.google/paths/17/course_templates/1036/video/584565
+
 7 Dec
 Responsible AI for Developers: Interpretability & Transparency | https://www.skills.google/paths/17/course_templates/989/badge
 
