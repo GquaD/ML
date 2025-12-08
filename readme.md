@@ -1,5 +1,8 @@
 my ML course progress
 
+7 Dec
+Responsible AI for Developers: Interpretability & Transparency | https://www.skills.google/paths/17/course_templates/989/badge
+
 5 Dec
 Concept-based explanations | https://www.skills.google/paths/17/course_templates/989/video/583397
 
