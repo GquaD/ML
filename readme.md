@@ -1,5 +1,8 @@
 my ML course progress
 
+9 Dec
+Privacy in ML | https://www.skills.google/paths/17/course_templates/1036/video/584567
+
 8 Dec
 Data Privacy: De-identification techniques | https://www.skills.google/paths/17/course_templates/1036/video/584565
 
