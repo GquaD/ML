@@ -1,5 +1,8 @@
 my ML course progress
 
+10 Dec
+Systems Security in GenAI | https://www.skills.google/paths/17/course_templates/1036/video/584571
+
 9 Dec
 Privacy in ML | https://www.skills.google/paths/17/course_templates/1036/video/584567
 
