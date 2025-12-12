@@ -1,5 +1,8 @@
 my ML course progress
 
+12 Dec
+Safety Evaluation | https://www.skills.google/paths/17/course_templates/1036/video/584575
+
 11 Dec
 Differential Privacy Lab done. AI safety started | https://www.skills.google/paths/17/course_templates/1036/video/584574
 
