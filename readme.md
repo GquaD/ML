@@ -1,5 +1,8 @@
 my ML course progress
 
+14 Dec
+Finished Machine Learning Engineer Path at skills.google | https://www.skills.google/paths/17/course_templates/1036/badge
+
 12 Dec
 Safety Evaluation | https://www.skills.google/paths/17/course_templates/1036/video/584575
 
